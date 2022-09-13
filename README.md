@@ -1,36 +1,36 @@
 <div align="center">
-     
-     __    __                         _____          __                
-    /\ \  /\ \                       /\___ \        /\ \               
-    \ `\`\\/'/  __      ___          \/__/\ \    ___\ \ \____    ____  
-     `\ `\ /' /'__`\  /' _ `\  _______  _\ \ \  / __`\ \ '__`\  /',__\ 
-       `\ \ \/\ \L\.\_/\ \/\ \/\______\/\ \_\ \/\ \L\ \ \ \L\ \/\__, `\
-         \ \_\ \__/.\_\ \_\ \_\/______/\ \____/\ \____/\ \_,__/\/\____/
-          \/_/\/__/\/_/\/_/\/_/         \/___/  \/___/  \/___/  \/___/ 
-      
+
+
+```
+
+ __    __                        ____      
+/\ \  /\ \                      /\  _`\    
+\ `\`\\/'/  __      ___       __\ \ \/\ \  
+ `\ `\ /' /'__`\  /' _ `\    /\_\\ \ \ \ \ 
+   `\ \ \/\ \L\.\_/\ \/\ \   \/_/_\ \ \_\ \
+     \ \_\ \__/.\_\ \_\ \_\    /\_\\ \____/
+      \/_/\/__/\/_/\/_/\/_/    \/_/ \/___/ 
+                                           
+
+```
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="ts" width="40px"> </img> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="js" width="40px"></img> <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" alt="nextjs" width="40px"></img> <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="java" width="20px"></img>
 </div>
 
-## Hey there 👋
+## :D
 
-Welcome ! I'm Yanice, a young NodeJS dev from  **Paris**, _in France_.
+Hi ! I'm a random guy who likes IT stuff
 
-### Projects :sparkles:
+### Things I do:
+An app which auto uploads your screenshots to [e-z.host](https://e-z.host)
 
-I am the developer of these projects _all are currently in development_:
-* A awesome custom  image uploader for [E-Z.host](https://e-z.host),
-* And some other things that I find cool
-### Skills & Tools 🛠
-React is my breakfast, TS is my lunch, Next is my afternoon cake and my dinner will be JS !
+I need to do something for chilledbot but I forgot to read so idk
 
-### Contact me 🤝
-* You can DM me on Discord <img src="https://raw.githubusercontent.com/Yan-Jobs/Yan-Jobs/main/assets/link/discord.svg" width="20px" alt="discord" />:  **Yan.#0001**,
-* Or **@YanJobs** on Twitter,
-* Or **u/Yan_Jobs** <img src="https://raw.githubusercontent.com/Yan-Jobs/Yan-Jobs/main/assets/link/reddit.svg" width="20px" alt="Reddit" /> on Redit,
-* Or send me an email 📧  at yan@yanjobs.me !
-## Some Stats 📊
+### Contacts
+* Discord: **Yan.#0001**,
+* By email 📧 @ yan@yanjobs.me :)
+
+## Stats
 ![](https://komarev.com/ghpvc/?username=yan-jobs&style=flat&color=yellow)
 
-![langStats](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-Jobs&theme=radical&border_radius=30px)
-![rankStats](https://github-readme-stats.vercel.app/api?username=yan-jobs&count_private=true&show_icons=true&theme=onedark&border_radius=30px)
-![Wakatime](https://wakatime.com/share/@YanJobs/9f1641d6-4f25-4796-8da6-2964fc6eecb4.svg)
+![](https://github-readme-stats.vercel.app/api?username=yan-jobs&&icon_color=fff&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
