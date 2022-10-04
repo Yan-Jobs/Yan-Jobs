@@ -20,7 +20,7 @@
 <h2 id="hello--im-a-random-guy-who-likes-it-a-lot-like-a-lot">Hi! :D I’m a random guy who likes IT a lot (like a lot)</h2>
 <h3 id="contacts">Contacts</h3>
 
-<a href="https://lookup.guru/735538297815957584" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" width="60"></a> <a href="https://e-z.bio/Yan" target="_blank"><img src="https://s3.us-east-1.wasabisys.com/e-zimagehosting/5badb329-1cbe-476a-8b6a-3476210e58db/escb2w1p.png" width="60"></a>
+<a href="https://lookup.guru/735538297815957584" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="60"></a> <a href="https://e-z.bio/Yan" target="_blank"><img src="https://s3.us-east-1.wasabisys.com/e-zimagehosting/5badb329-1cbe-476a-8b6a-3476210e58db/escb2w1p.png" width="60"></a>
 
 <h2 id="stats">Stats</h2>
 
