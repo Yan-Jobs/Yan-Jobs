@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       5 hrs 23 mins   OOOOOOOOOOOOOOO..........   59.65 %
-Slint            1 hr 32 mins    OOOOo....................   17.07 %
-Rust             1 hr 26 mins    OOOO.....................   16.00 %
-JSON             17 mins         0........................   03.27 %
-CSS              12 mins         0........................   02.23 %
+TypeScript       3 hrs 55 mins   OOOOOOOOOOOOOOOOOOOO0....   82.01 %
+Rust             25 mins         OOo......................   08.93 %
+JSON             17 mins         O0.......................   06.06 %
+JavaScript       7 mins          0........................   02.58 %
+Slint            0 secs          .........................   00.18 %
 ```
 
 <!--END_SECTION:waka-->
