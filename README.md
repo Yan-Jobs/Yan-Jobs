@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       1 hr 50 mins    OOOOOOOOOOOOOOOOOOOO0....   82.85 %
-Rust             15 mins         OOO......................   11.81 %
-JavaScript       6 mins          Oo.......................   04.73 %
-Slint            0 secs          .........................   00.39 %
+TypeScript       1 hr 50 mins    OOOOOOOOOOOOOOOOOOOO0....   83.17 %
+Rust             15 mins         OOO......................   11.85 %
+JavaScript       6 mins          Oo.......................   04.74 %
 GitIgnore file   0 secs          .........................   00.16 %
+Markdown         0 secs          .........................   00.05 %
 ```
 
 <!--END_SECTION:waka-->
