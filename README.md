@@ -14,11 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       1 hr 50 mins    OOOOOOOOOOOOOOOOOOOO0....   83.17 %
-Rust             15 mins         OOO......................   11.85 %
-JavaScript       6 mins          Oo.......................   04.74 %
-GitIgnore file   0 secs          .........................   00.16 %
-Markdown         0 secs          .........................   00.05 %
+TypeScript   1 hr 50 mins    OOOOOOOOOOOOOOOOOOOOOOO0.   94.60 %
+JavaScript   6 mins          Oo.......................   05.40 %
 ```
 
 <!--END_SECTION:waka-->
