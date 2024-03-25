@@ -14,8 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 50 mins    OOOOOOOOOOOOOOOOOOOOOOO0.   94.60 %
-JavaScript   6 mins          Oo.......................   05.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
