@@ -29,7 +29,7 @@
       </td> -->
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/Yan-Jobs"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
+         ![](https://komarev.com/ghpvc/?username=Yan-Jobs)
       </td>
     </tr>
   </table>
