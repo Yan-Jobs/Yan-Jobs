@@ -3,7 +3,7 @@
 <img src="https://media1.tenor.com/m/uyrB9E4GThcAAAAd/cat-kitten.gif" /></a>
 </p>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/Yan-Jobs">Canquest</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/Yan-Jobs">ckl</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
