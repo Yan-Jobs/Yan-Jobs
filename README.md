@@ -38,7 +38,7 @@
 
 - 🔭 Working on Website/Discord/Instagram/Tiktok/Twitter and all social media platforms.
 - 🌱 Learning C++ and C#
-- 📫 How to contact me: r9t0 (Discord)
+- 📫 How to contact me: You can't 😼
 
 ## Languages and Tools
 
